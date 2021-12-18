@@ -1,4 +1,4 @@
-# this is watch backend code
+# This is watch backend code
 
 ## OUR SHOP FACILITIES
 
@@ -7,7 +7,7 @@
 * If you are interested in buying a wristwatch, feel free to order and go to sleep.
 * And you have to be in America to order, so you can order
 * Get to know us and see our feedback, if you have time, visit our blog
-* You can win small prizes from us by buying products from us. So come to us 😀😀
+* You can win small prizes from us by buying products from us. So come to us.
 
 
 
